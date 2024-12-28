@@ -1,0 +1,1 @@
+简单使用教程：https://doc.embedfire.com/linux/rk356x/Ai/zh/latest/index.html

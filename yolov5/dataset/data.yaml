@@ -1,0 +1,13 @@
+train: D:/Code/yolov5/dataset/train/images
+val: D:/Code/yolov5/dataset/valid/images
+test: D:/Code/yolov5/dataset/test/images
+
+nc: 1
+names: ["stray-cat"]
+
+roboflow:
+  workspace: stray-cats
+  project: stray-cat-ph
+  version: 15
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/stray-cats/stray-cat-ph/dataset/15
